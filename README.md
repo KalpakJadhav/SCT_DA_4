@@ -5,7 +5,7 @@ This project involved performing an Exploratory Data Analysis (EDA) on a marketi
 Using Python (Pandas, Matplotlib, and Seaborn) in a Jupyter Notebook, I analyzed the effectiveness of various marketing channels and customer segments to identify the most profitable strategies. 
 Developed as part of my Data Analyst Internship at SkillCraft Technology.
 
-🎯 Key Objectives
+🎯 Key Objectives:-
 Data Cleaning: Processed raw marketing data by removing special characters from financial columns (Acquisition_Cost) and converting date strings into datetime objects for trend analysis.
 
 Feature Engineering: Calculated new performance metrics, such as Click-Through Rate (CTR), to measure ad engagement efficiency.
